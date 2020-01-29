@@ -1,4 +1,5 @@
 using UnityEngine;
+using System;
  
 /// <summary>
 /// Use this property on a ScriptableObject type to allow the editors drawing the field to draw an expandable
